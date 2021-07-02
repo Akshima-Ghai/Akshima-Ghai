@@ -30,3 +30,12 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Akshima-Ghai&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
 
+## 💻 Languages Used:
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshima-Ghai&show_icons=true&theme=radical" width="42%" >
+  <img width="45%" align="right" alt="Mern" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
+</div>
+
+<br/>
