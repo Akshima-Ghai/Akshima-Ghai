@@ -1,6 +1,6 @@
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Akshima Ghai!</h1>
 
-<h4 align="center">I am a graduate student 📚 . I am open source Enthusiast ❤️. I enjoy programming in Python and C++ and also like to solve challenging problems by creating new solutions. Skilled at python-related technologies such as Numpy, Pandas . I am also an experienced android developer using Java , Kotlin and Flutter tech .</h4>
+<h4 align="center">I am a under-graduate student 📚 . I am open source Enthusiast ❤️. I enjoy programming in Java and love to build new apps in Kotlin , Flutter and Java also  familiar with web technologies including node and react . Solving challenging problems by creating new solutions is my all time favourite hobby.</h4>
 <br/>
 
 <div align="center">
@@ -13,11 +13,11 @@
 
 
 ## 🧐 About Me
-- 💻 I'm currently working as a Project Admin at DCP 2021
-- 🔭 I’m currently working as a Mentee under WooTech Organisation
-- 🌱 I’m currently learning Flutter , Kotlin , DataScience skills , DSA
-- 👯 I’m looking to collaborate with a company as an Intern
-- 🤔 I’m looking for help to find Internship and Referrals
+- 💻 I'm currently working as a Intern at Softraw as software trainee part of open source program
+- 🔭 I’m currently working as a Mentee under GirlScript GSSoC'22
+- 🌱 I’m currently enhancing my knowledge in Flutter, Kotlin, and Java
+- 👯 Most of all focusing on improving my problem solving skills
+- 🤔 I’m looking for Referrals
 - 📫 How to reach me: Email : akshima1603@gmail.com
 
 ## 📚 GitHub Stats:
