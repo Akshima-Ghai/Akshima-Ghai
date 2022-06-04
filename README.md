@@ -1,6 +1,6 @@
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Akshima Ghai!</h1>
 
-<h4 align="center">I am a under-graduate student 📚 . I am open source Enthusiast ❤️. I enjoy programming in Java and love to build new apps in Kotlin , Flutter and Java also  familiar with web technologies including node and react . Solving challenging problems by creating new solutions is my all time favourite hobby.</h4>
+<h4 align="center">I am a under-graduate student 📚 . I am open source Enthusiast ❤️. I enjoy programming in Java and love to build new apps and website using different tech stack. Solving challenging problems by creating new solutions is my all time favourite hobby.</h4>
 <br/>
 
 <div align="center">
