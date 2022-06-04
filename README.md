@@ -16,7 +16,7 @@
 - 🔭 I’m currently working as a Mentor under GirlScript GSSoC'22
 - 💻 I'm currently working as a technical content creator at GFG
 - 🌱 I’m currently enhancing my problem solving skills
-- 👯 Most of all focusing on improving myself and become better version every day
+- 👯 Most of all focusing on improving myself and becoming better version every day
 - 🤔 I’m looking for Referrals
 - 📫 How to reach me: Email : akshima1603@gmail.com
 
