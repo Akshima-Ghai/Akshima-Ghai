@@ -13,10 +13,10 @@
 
 
 ## 🧐 About Me
-- 💻 I'm currently working as a Intern at Softraw as software trainee part of open source program
-- 🔭 I’m currently working as a Mentee under GirlScript GSSoC'22
-- 🌱 I’m currently enhancing my knowledge in Flutter, Kotlin, and Java
-- 👯 Most of all focusing on improving my problem solving skills
+- 🔭 I’m currently working as a Mentor under GirlScript GSSoC'22
+- 💻 I'm currently working as a technical content creator at GFG
+- 🌱 I’m currently enhancing my problem solving skills
+- 👯 Most of all focusing on improving myself and become better version every day
 - 🤔 I’m looking for Referrals
 - 📫 How to reach me: Email : akshima1603@gmail.com
 
